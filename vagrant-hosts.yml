@@ -5,7 +5,7 @@
 # <https://github.com/bertvv/ansible-skeleton>
 ---
 
-- name: dockerlab
+- name: vagrantlab
   ip: 192.168.57.20
   box: bento/ubuntu-20.04
   memory: 4096
